@@ -7,9 +7,6 @@
 
 ```mermaid
 classDiagram
-    %% Напишите вашу диаграмму классов сюда
-    %% Пример:
-    %% КлассРодитель <|-- КлассНаследник
     class InterOwner{
         <<interface>>
         +int Owner
